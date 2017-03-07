@@ -1,0 +1,7 @@
+
+
+#npm init --yes
+#npm init sqllite3 --save
+
+on js:
+#'use strict'
